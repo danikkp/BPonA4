@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/problem"
+        style="@style/ButStyle"
+        android:text="@string/problem" />
+
+    <TextView
+        android:id="@+id/customers"
+        style="@style/ButStyle"
+        android:text="@string/customers" />
+
+    <TextView
+        android:id="@+id/unique_value_proposition"
+        style="@style/ButStyle"
+        android:text="@string/unique_value_proposition" />
+
+    <TextView
+        android:id="@+id/solution"
+        style="@style/ButStyle"
+        android:text="@string/solution" />
+
+    <TextView
+        android:id="@+id/unfair_advantage"
+        style="@style/ButStyle"
+        android:text="@string/unfair_advantage" />
+
+    <TextView
+        android:id="@+id/revenue_streams"
+        style="@style/ButStyle"
+        android:text="@string/revenue_streams" />
+
+    <TextView
+        android:id="@+id/cost_structure"
+        style="@style/ButStyle"
+        android:text="@string/cost_structure" />
+
+    <TextView
+        android:id="@+id/key_metrics"
+        style="@style/ButStyle"
+        android:text="@string/key_metrics" />
+
+    <TextView
+        android:id="@+id/channels"
+        style="@style/ButStyle"
+        android:text="@string/channels" />
+
+</LinearLayout>

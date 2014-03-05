@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BusinessPlanOnA4</string>
+    <string name="action_settings">Settings</string>
+    <string name="problem">Problem</string>
+    <string name="customers">Customer segments</string>
+    <string name="early_customers">Early adopters</string>
+    <string name="unique_value_proposition">Unique value proposition</string>
+    <string name="solution">Solution</string>
+    <string name="unfair_advantage">Unfair advantage</string>
+    <string name="revenue_streams">Revenue streams</string>
+    <string name="cost_structure">Cost structure</string>
+    <string name="key_metrics">Key metrics</string>
+    <string name="key_action">Key action</string>
+    <string name="key_success">Key success</string>
+    <string name="channels">Channels</string>
+    <string name="create_new_plan">create new plan</string>
+    <string name="title_activity_edit_item">EditItem</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
